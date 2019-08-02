@@ -1,8 +1,3 @@
-!pip install pandas #for data pre-processing
-!pip install tweepy #for accessing twitter data
-!pip install VaderSentiment #for sentiment analysis
-
-
 
 import tweepy
 from textblob import TextBlob
