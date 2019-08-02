@@ -5,6 +5,7 @@
 
 
 import tweepy
+from textblob import TextBlob
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 import pandas as pd
 
